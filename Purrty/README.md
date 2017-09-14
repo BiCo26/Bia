@@ -1,60 +1,24 @@
+# README
 
-#Purrty
-![Purrty](/Desktop/strut.png)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
->Is a blog focusing on the lives and adventures of felines.
+Things you may want to cover:
 
-## Users
->Anyone interested in learning about or staying up to date with members of the feline community.
+* Ruby version
 
+* System dependencies
 
-# Wireframe
+* Configuration
 
-## Landing Page
-![Landing Page](assets/landingpage.png)
+* Database creation
 
-## Article Page
-![Article Page](assets/article.png)
+* Database initialization
 
-## Video Page 
+* How to run the test suite
 
-# Technology Used in this app blog
+* Services (job queues, cache servers, search engines, etc.)
 
-* ReactJS *for the front-end*
-* Ruby on Rails *for the back-end*
-* PSQL *database language*
-* Active Record *library*
+* Deployment instructions
 
-
-# TABLES
-
-## USER
-* string : pass_digest
-* string : user_name
-* string : session_token
-
-## FAVE
-* user_id
-* article_id 
-
-## Cats
-
-* string : breed
-* text : description
-* string : url
-* 
-
-<!-- order them by created_at using time_stamp -->
-<!-- .order created_at -->
-<!-- Like button to create fave for user -->
-
-<!-- video placement -->
-
-<!-- 
-- wireframes
-- user stories
-- timeline
-- tech stack -->
-
-<!-- keep track of state
-React for landing video -->
+* ...
